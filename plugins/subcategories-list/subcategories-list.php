@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  Subcategories List
-Plugin URI:   http://www.antoniocampos.es/plugins/abc-tag-cloud/
+Plugin URI:   https://github.com/acamposserna/wordpress-plugins/blob/main/plugins/subcategories-list/
 Description:  This shortcode shows the subcategories list of one category with an alphabet for direct access
               by the first letter of the name of the subcategory.
 Version:      1.0

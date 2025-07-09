@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  ABC Tag Cloud Shortcode
-Plugin URI:   http://www.antoniocampos.es/plugins/abc-tag-cloud/
+Plugin URI:   https://github.com/acamposserna/wordpress-plugins/blob/main/plugins/abc-tag-cloud/
 Description:  This shortcode shows the tag cloud with an alphabet for direct access by the first letter of the tag.
 Version:      1.0
 Author:       Antonio Campos Serna
